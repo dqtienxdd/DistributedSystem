@@ -1,0 +1,34 @@
+.title h1{
+    font-size: 3vh;
+    text-align: left;
+    padding-left: 5vh;
+    
+}
+
+.Farm1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.Farm1 button {
+    margin: 10px; /* Adjust this value to increase or decrease the gap between buttons */
+}
+/* .button_node1{
+    position: absolute;
+    margin-top: 55vh;
+    margin-left: -130vh;
+}
+.button_node2{
+    position: absolute;
+    margin-top: 55vh;
+    margin-left: -100vh;
+}
+
+
+.button_node3 {
+    position: absolute;
+    margin-top: 55vh;
+    margin-left: -70vh;
+} */
